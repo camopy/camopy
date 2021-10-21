@@ -1,4 +1,4 @@
-#### Hi, I'm Paulo Camopy 👋
+## Hi, I'm Paulo Camopy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ##### I'm mainly coding on
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
